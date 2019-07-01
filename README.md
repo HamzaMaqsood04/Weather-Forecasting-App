@@ -1,2 +1,0 @@
-# Weather-App
-Weather app
